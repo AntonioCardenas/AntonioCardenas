@@ -4,6 +4,10 @@
 <p><a href="https://twitter.com/yeoudev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a> 
 <a href="https://www.linkedin.com/in/antoniocardenas1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/yeoudev" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  
+  
+##  My Content ⌨️✍
+  <a href="https://medium.com/@yeoudev/"><img src="https://img.shields.io/badge/-@yeoudev-03a57a?style=flat&labelColor=03a57a&logo=Medium"></a>
 </p>
 
 
