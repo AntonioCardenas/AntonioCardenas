@@ -18,7 +18,6 @@
 
 - 💻 [ Blog personal - projects - tools](https://yeou.dev/)
 
-![](https://i.imgur.com/3YgEGT6.gif)
 
 
 
