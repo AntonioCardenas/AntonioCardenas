@@ -1,7 +1,7 @@
 <h1 align='center'>
-    Hi there 🖖🏼 I'm Antonio(Yeoudev) 👨🏻‍💻 
+    ¡Hello there 🖖🏼 I'm Antonio(Yeoudev) 👨🏻‍💻 !
     <p align='center'>
- Frontend/Web Developer & <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="15">
+ Frontend/Web Developer & <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="17">
  Angular Lover 
 </p>
 </h1>
@@ -15,16 +15,13 @@ Where to find me:
 <a href="https://www.linkedin.com/in/antoniocardenas1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://discord.gg/da6ZjWePhA" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.facebook.com/yeoudev" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-
- 
 </p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=antoniocardenas&show_icons=true&count_private=true&theme=dark" width="450"></a>
 </p>
   
-##  My Content ⌨️✍
-
+##  ✍🏻 ⌨️ Content from me and friends
 
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white?style=for-the-badge)](https://medium.com/@yeoudev/)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white
