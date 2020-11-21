@@ -21,6 +21,13 @@ Where to find me:
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=antoniocardenas&show_icons=true&count_private=true&theme=dark" width="450"></a>
 </p>
   
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AntonioCardenas&layout=compact&theme=tokyonight" />
+</a>
+</p>
+  
 ##  ✍🏻 ⌨️ Content from me and friends
 
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white?style=for-the-badge)](https://medium.com/@yeoudev/)
