@@ -3,6 +3,7 @@
     <p align='center'>
  Frontend/Web Developer & <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="17">
  Angular Lover 
+        Creating Web3 Stuff
 </p>
 </h1>
 
