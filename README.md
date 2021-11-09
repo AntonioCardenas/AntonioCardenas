@@ -1,7 +1,7 @@
 <h1 align='center'>
     ¡Hello there 🖖🏼 I'm Antonio(Yeoudev) 👨🏻‍💻 !
     <p align='center'>
- Frontend/Web Developer & <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="17">
+        GDE (Google Developer Expert) in Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="17">. Web3Dev Frontend/Web Developer & 
  Angular Lover 
         Creating Web3 Stuff
 </p>
