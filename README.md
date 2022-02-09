@@ -33,7 +33,7 @@ Where to find me:
 
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white?style=for-the-badge)](https://medium.com/@yeoudev/)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white
-)](https://www.youtube.com/c/MacaoTech/videos)
+)](https://www.youtube.com/Macaotech?sub_confirmation=1)
 [![Dev.To](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white?style=for-the-badge)](https://dev.to/nges/)
 
 <!-- <p align='center'>
