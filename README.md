@@ -18,9 +18,6 @@ Where to find me:
 <a href="https://www.facebook.com/yeoudev" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=antoniocardenas&show_icons=true&count_private=true&theme=dark" width="450"></a>
-</p>
   
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
