@@ -101,6 +101,9 @@ Where to find me:
 <a>
 <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 </a> 
+    
+## Spam
+<img align="center" src="https://profile-counter.glitch.me/yeoudev/count.svg" />
 
 <!--
 - 💻 [ Blog personal - projects - tools](https://yeou.dev/)
