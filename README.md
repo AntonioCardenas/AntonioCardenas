@@ -1,119 +1,93 @@
-<h1 align='center'>
-    ¡Hello there 🖖🏼 I'm Antonio(Yeoudev) 👨🏻‍💻 !
-    <p align='center'>
-        GDE (Google Developer Expert) in Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="17">. Web3Dev Frontend/Web Developer & 
- Angular Lover 
-        Creating Web3 Stuff
-</p>
-</h1>
-
-<p align='center'>
-Where to find me:
-</p>
-
-<p align='center'>
-<a href="https://twitter.com/yeoudev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/antoniocardenas1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://discord.gg/da6ZjWePhA" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://www.facebook.com/yeoudev" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
+<div align="center">
   
-<p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AntonioCardenas&layout=compact&theme=tokyonight" />
-</a>
+  <h1>
+    Hi there, I'm Antonio (Yeoudev) 👨🏻‍💻
+  </h1>
+  
+  <h3>
+    Google Developer Expert (GDE) in Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="20">
+  </h3>
+  
+  <p>
+    Frontend Developer passionate about the Web3 ecosystem, modern UI/UX, and building cool things with Angular.
+  </p>
+  
+</div>
+
+---
+
+### 🏆 Google Developer Expert Profile
+
+<p align="center">
+  <a href="https://developers.google.com/profile/u/antoniocardenas">
+    <img src="https://developers.google.com/static/profile/badges/community/gde/badge.svg" height="80" alt="Google Developer Expert"/>
+  </a>
+  <a href="https://developers.google.com/profile/u/antoniocardenas">
+    <img src="https://developers.google.com/static/profile/badges/community/gde/specialization/angular/badge.svg" height="80" alt="Angular GDE"/>
+  </a>
+  <a href="https://developers.google.com/profile/u/antoniocardenas">
+    <img src="https://developers.google.com/static/profile/badges/community/gde/2022/badge.svg" height="80" alt="GDE 2022"/>
+  </a>
+  <a href="https://developers.google.com/profile/u/antoniocardenas">
+    <img src="https://developers.google.com/static/profile/badges/community/gde/2023/badge.svg" height="80" alt="GDE 2023"/>
+  </a>
+  <a href="https://developers.google.com/profile/u/antoniocardenas">
+    <img src="https://developers.google.com/static/profile/badges/community/gde/2024/badge.svg" height="80" alt="GDE 2024"/>
+  </a>
+  <a href="https://developers.google.com/profile/u/antoniocardenas">
+    <img src="https://developers.google.com/static/profile/badges/community/gde/2025/badge.svg" height="80" alt="GDE 2025"/>
+  </a>
 </p>
-  
-##  ✍🏻 ⌨️ Content from me and friends
 
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white?style=for-the-badge)](https://medium.com/@yeoudev/)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white
-)](https://www.youtube.com/Macaotech?sub_confirmation=1)
-[![Dev.To](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white?style=for-the-badge)](https://dev.to/nges/)
+---
 
-<!-- <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/antoniocardenas/antoniocardenas"></a> Come as you're </p>
--->
-<details>
-  <summary>📃 Others</summary>
-  
-## ⚙️ Techs
+### 📬 Find me on
 
-<a><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
-</a>
-<a><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/ionic%20-%233776AB.svg?&style=for-the-badge&logo=ionic&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</a>
-<a><img src="https://img.shields.io/badge/materialdesign%20-%23757575.svg?&style=for-the-badge&logo=material-design&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/powershell%20-%2302569B.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</a> 
+<p align="center">
+  <a href="https://twitter.com/yeoudev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/antoniocardenas1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://discord.gg/da6ZjWePhA" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
-## 🕹️ Playgrounds
-<a><img src="https://img.shields.io/badge/Code pen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/Glitch-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/>
-</a> 
+---
 
-## 📃 IDE's that I usually use
-<a><img src="https://img.shields.io/badge/Xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/WebStorm-%2300000.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</a> 
+### ✍️ My Content & Contributions
 
-## 💽 Operating systems that I use
-<a>
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
-</a> 
-<a>
-<img src="https://img.shields.io/badge/Mac Os-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
-</a> 
-<a>
-<img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
-</a> 
+<p align="center">
+    <a href="https://medium.com/@yeoudev/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;
+    <a href="https://www.youtube.com/Macaotech?sub_confirmation=1" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
+    <a href="https://dev.to/nges/" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+</p>
 
-## 👨🏻‍💻 Currently learning
-<a>
-<img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge"/>
-</a> 
+---
 
-<a>
-<img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-</a> 
-    
-## Spam
-<img align="center" src="https://profile-counter.glitch.me/yeoudev/count.svg" />
+### 🛠️ Languages and Tools
 
-<!--
-- 💻 [ Blog personal - projects - tools](https://yeou.dev/)
-</details>
-[![Follow Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/antoniocardenas)
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/three.js-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?&style=for-the-badge&logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-%230055FF.svg?&style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+</p>
 
+### 🕹️ My Playgrounds
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code pen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Glitch-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/>
+</p>
 
+---
 
-
-
+### 📊 My GitHub Stats
+ 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCardenas&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonioCardenas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
