@@ -75,14 +75,6 @@
   <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-### 🕹️ My Playgrounds
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code pen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Glitch-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/>
-</p>
-
----
 
 ### 📊 My GitHub Stats
  
