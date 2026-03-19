@@ -10,7 +10,7 @@ Frontend Developer and Google Developer Expert specializing in Angular ecosystem
 
 [View My GDE Profile](https://developers.google.com/profile/u/antoniocardenas)
 
-Google Developer Expert in Angular - Recognized for expertise, community contribution, and technical leadership (2022-2025)
+Google Developer Expert in Angular - Recognized for expertise, community contribution, and technical leadership (2022-2026)
 
 ---
 
