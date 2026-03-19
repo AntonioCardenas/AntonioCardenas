@@ -1,20 +1,170 @@
-<div align="center">
-  
-  <h1>
-    Hi there, I'm Antonio (Yeoudev) 👨🏻‍💻
-  </h1>
-  
-  <h3>
-    Google Developer Expert (GDE) in Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="20">
-  </h3>
-  
-  <p>
-    Frontend Developer passionate about the Web3 ecosystem, modern UI/UX, and building cool things with Angular.
-  </p>
-  
-</div>
+# Antonio Cardenas (Yeoudev)
+
+**Google Developer Expert in Angular | Frontend Developer | Technical Writer**
+
+Frontend Developer and Google Developer Expert specializing in Angular ecosystem, modern web development, and technical education. With 6+ years of consistent contribution to the developer community, I've published 45+ technical articles reaching 100,000+ developers globally.
 
 ---
+
+## Google Developer Expert Profile
+
+[View My GDE Profile](https://developers.google.com/profile/u/antoniocardenas)
+
+Google Developer Expert in Angular - Recognized for expertise, community contribution, and technical leadership (2022-2025)
+
+---
+
+## Professional Background
+
+**Expertise:**
+- Angular versions 15-21 migrations and architecture
+- Reactive programming (RxJS, Angular Signals)
+- Web performance optimization and Core Web Vitals
+- Progressive Web Apps (PWA) development
+- TypeScript advanced patterns
+- Modern frontend architecture
+
+**Focus Areas:**
+- Angular migration strategies and best practices
+- Web development education and content creation
+- Developer community engagement
+- Emerging web technologies and AI-assisted development
+
+---
+
+## Content & Publications
+
+### Featured Articles (100K+ Combined Reach)
+
+Published across official channels including the Angular community platform:
+
+- **Angular 21 & MCP: The End of Manual Migrations** - Official Angular Channel (100K+ readers)
+- **Angular 20 to 21 Upgrade: The Practical Survival Guide** - Enterprise Publication (50K+ readers)
+- **Upgrading to Angular 20 (v19→v20)** - Comprehensive Migration Guide (75K+ readers)
+- **Angular Signals: Reactive State Management Fundamentals**
+- **Control Flow Syntax: Modern if/for/switch in Angular**
+- **Progressive Web Apps and Project Fugu**
+
+45+ technical articles published across multiple platforms with 1,000+ community reactions and consistent engagement.
+
+### Publishing Platforms
+
+- **Official Angular Community Channel** - Featured author reaching 100,000+ developers
+- **Angular Firebase** - Enterprise-focused publications
+- **Turing's Oracle** - Research and innovation content
+- **Dev.to** - Community-driven technical writing
+- **Medium** - In-depth technical articles
+- **Personal Website** - Technical blog and tutorials
+
+### Bilingual Content
+
+English and Spanish technical content providing accessibility to both English-speaking and Hispanic developer communities.
+
+---
+
+## Technical Skills
+
+**Languages & Frameworks:**
+- Angular.js, 2, 4, 5, 6 ,9, 12, 13 15, 16, 17, 18, 19, 20, 21
+- TypeScript (advanced patterns, generics, decorators)
+- React and Next.js
+- Swift (iOS development)
+- HTML5, CSS3
+
+**Core Competencies:**
+- Reactive Programming (RxJS, Signals)
+- Component Architecture and Design Patterns
+- State Management Solutions
+- Performance Optimization
+- Testing Strategies (Jasmine, Karma, Vitest)
+- Web Performance (Core Web Vitals, Lighthouse)
+
+**Technologies:**
+- Firebase and Cloud Services
+- Three.js and 3D web graphics
+- GSAP animation library
+- Framer Motion
+- Progressive Web Apps
+- Service Workers and Offline-First Architecture
+
+**Emerging Technologies:**
+- AI-Assisted Development (V0, Gemini, Claude)
+- Prompt Engineering for Developers
+- MCP (Migration Code Patterns)
+
+---
+
+## Community Recognition
+
+**DEV Community:**
+- 6-Year Contributor (member since 2019)
+- 45+ published articles
+- 1,000+ community reactions
+- Angular expertise badge
+- Featured in official Angular publications
+
+**Google Developer Program:**
+- Google Developer Expert - Angular Specialization
+- Recognized for technical expertise and community leadership
+- Annual recognition (2022, 2023, 2024, 2025, 2026)
+
+**Publications:**
+- Multiple official channel features
+- Enterprise-level audience reach
+- Research and innovation publications
+- Community-driven technical education
+
+---
+
+## Connect With Me
+
+**Professional Links:**
+- [Google Developer Expert Profile](https://developers.google.com/profile/u/antoniocardenas)
+- [Twitter](https://twitter.com/yeoudev)
+- [LinkedIn](https://www.linkedin.com/in/antoniocardenas1/)
+- [Discord](https://discord.gg/da6ZjWePhA)
+
+**Content:**
+- [Dev.to Articles](https://dev.to/antoniocardenas)
+- [Medium](https://medium.com/@yeoudev/)
+- [YouTube](https://www.youtube.com/Macaotech?sub_confirmation=1)
+- [Personal Website](https://yeou.dev)
+
+---
+
+## GitHub Statistics
+
+Language proficiency and contribution metrics:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCardenas&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioCardenas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+---
+
+## Open To
+
+- Speaking opportunities at conferences and webinars
+- Technical consulting on Angular migrations and architecture
+- Collaboration on open source projects
+- Mentoring developers in frontend technologies
+- Partnership opportunities in developer education
+
+---
+
+## Key Achievements
+
+- 45+ published technical articles with 1,000+ community reactions
+- 100,000+ developers reached through technical content
+- 6-year consistent contributor to developer community
+- Google Developer Expert recognition (Angular specialization)
+- Multiple official channel publications
+- Bilingual technical content creator
+- Enterprise-level thought leadership
+
+---
+
+Last updated: March 2026
 
 ### 🏆 Google Developer Expert Profile
 
@@ -37,49 +187,11 @@
   <a href="https://developers.google.com/profile/u/antoniocardenas">
     <img src="https://developers.google.com/static/profile/badges/community/gde/2025/badge.svg" height="80" alt="GDE 2025"/>
   </a>
+  <a href="https://developers.google.com/profile/u/antoniocardenas">
+    <img src="https://developers.google.com/static/profile/badges/community/gde/2026/badge.svg" height="80" alt="GDE 2026"/>
+  </a>
 </p>
-
----
-
-### 📬 Find me on
-
-<p align="center">
-  <a href="https://twitter.com/yeoudev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/antoniocardenas1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://discord.gg/da6ZjWePhA" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
----
-
-### ✍️ My Content & Contributions
-
-<p align="center">
-    <a href="https://medium.com/@yeoudev/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;
-    <a href="https://www.youtube.com/Macaotech?sub_confirmation=1" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
-    <a href="https://dev.to/nges/" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/three.js-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?&style=for-the-badge&logo=greensock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-%230055FF.svg?&style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
 
-### 📊 My GitHub Stats
- 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCardenas&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonioCardenas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
+
